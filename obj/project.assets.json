@@ -12190,11 +12190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cgi\\Documents\\consumer-portal-backend\\consumer-portal-backend.csproj",
+      "projectUniqueName": "C:\\Users\\cgi\\Documents\\consumer-portal\\consumer-portal\\consumer-portal-backend.csproj",
       "projectName": "consumer-portal-backend",
-      "projectPath": "C:\\Users\\cgi\\Documents\\consumer-portal-backend\\consumer-portal-backend.csproj",
+      "projectPath": "C:\\Users\\cgi\\Documents\\consumer-portal\\consumer-portal\\consumer-portal-backend.csproj",
       "packagesPath": "C:\\Users\\cgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cgi\\Documents\\consumer-portal-backend\\obj\\",
+      "outputPath": "C:\\Users\\cgi\\Documents\\consumer-portal\\consumer-portal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

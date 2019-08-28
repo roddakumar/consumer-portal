@@ -48,13 +48,11 @@ namespace consumer_portal_backend
             }
             
             
-            app.UseSwagger();
-            app.UseSwaggerUI(c => {
-                c.SwaggerEndpoint("/swagger/v1/swagger.yaml", "TestAPI v1");
-                
-            });
+         
             //app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseStaticFiles();
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger.json", "hello api"); });
         }
     }
 }

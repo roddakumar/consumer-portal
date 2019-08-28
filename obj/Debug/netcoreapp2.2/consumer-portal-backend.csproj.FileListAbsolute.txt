@@ -12,3 +12,17 @@ C:\Users\cgi\Documents\consumer-portal-backend\obj\Debug\netcoreapp2.2\consumer-
 C:\Users\cgi\Documents\consumer-portal-backend\obj\Debug\netcoreapp2.2\consumer-portal-backend.RazorTargetAssemblyInfo.cache
 C:\Users\cgi\Documents\consumer-portal-backend\obj\Debug\netcoreapp2.2\consumer-portal-backend.dll
 C:\Users\cgi\Documents\consumer-portal-backend\obj\Debug\netcoreapp2.2\consumer-portal-backend.pdb
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.csprojAssemblyReference.cache
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.csproj.CoreCompileInputs.cache
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.RazorAssemblyInfo.cache
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.RazorAssemblyInfo.cs
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.AssemblyInfoInputs.cache
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.AssemblyInfo.cs
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.dll
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.pdb
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\bin\Debug\netcoreapp2.2\consumer-portal-backend.deps.json
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\bin\Debug\netcoreapp2.2\consumer-portal-backend.runtimeconfig.json
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\bin\Debug\netcoreapp2.2\consumer-portal-backend.runtimeconfig.dev.json
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\bin\Debug\netcoreapp2.2\consumer-portal-backend.dll
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\bin\Debug\netcoreapp2.2\consumer-portal-backend.pdb
+C:\Users\cgi\Documents\consumer-portal\consumer-portal\obj\Debug\netcoreapp2.2\consumer-portal-backend.RazorTargetAssemblyInfo.cache
